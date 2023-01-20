@@ -9,6 +9,11 @@
     width: 100%;
 }
 
-.footer-btn {
-    background-color: transparent;
+.image-card {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
+
+/*  */
