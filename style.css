@@ -5,6 +5,11 @@
     background-position: center;
 }
 
-.link-color {
-    color: #FFFFFF;
+.bike-img {
+    width: 288px;
+    height: 243px;
+}
+
+.bike-img img {
+    width: 100%;
 }
