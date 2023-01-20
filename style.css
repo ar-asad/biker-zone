@@ -1,0 +1,10 @@
+.header {
+    background: linear-gradient(90deg, #181818 0%, rgba(24, 24, 24, 0.822917) 24.48%, rgba(24, 24, 24, 0) 100%), url(./images/bike-3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.link-color {
+    color: #FFFFFF;
+}
