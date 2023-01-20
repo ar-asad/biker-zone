@@ -5,11 +5,10 @@
     background-position: center;
 }
 
-.bike-img {
-    width: 288px;
-    height: 243px;
-}
-
 .bike-img img {
     width: 100%;
+}
+
+.footer-btn {
+    background-color: transparent;
 }
